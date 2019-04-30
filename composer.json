@@ -20,6 +20,8 @@
         "classmap": ["freelancehunt.class.php"]
     },
     "require": {
-        "php": ">=7.0.0"
+        "php": ">=7.0.0",
+        "ext-json": "^1.6",
+        "ext-curl": "^7.2"
     }
 }
