@@ -1,0 +1,25 @@
+{
+    "name": "mikechip/freelancehunt",
+    "description": "Simple middleware to work with freelancehunt.com",
+    "type": "library",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/mikechip/freelancehunt-php-sdk"
+        }
+    ],
+    "version": "1.0.0",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Boris Stelmakh",
+            "email": "mikael.chip@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": ["freelancehunt.class.php"]
+    },
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
