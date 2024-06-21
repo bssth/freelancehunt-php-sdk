@@ -1,5 +1,8 @@
 # Freelancehunt.com SDK
 
+### Deprecated
+#### The library was made quite a while ago and may be out of date. Please make a fork if you want to use it.
+
 This library makes work with Freelancehunt easier
 
 # Installation
